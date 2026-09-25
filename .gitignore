@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 .venv/
 support_crm.db
+__init__.py
